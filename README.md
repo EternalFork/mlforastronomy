@@ -1,10 +1,10 @@
-ML for Astronomy Course 
-
 # ML for Astronomy
 
 I took ML for Astronomy in Summer 2025 with Professor [Ana-Maria Delgado](https://itc.cfa.harvard.edu/people/ana-maria-delgado) at Harvard. It was a wonderful introduction to ML through the lens of astronomy.
 
-I've compiled the lectures, which were a combination of [astronomy](astronomy-lectures) and [ML](ml-lectures) as well as the [in-class notebooks](in-class-notebooks) and [homeworks](homeworks].
+I've compiled the lectures, which were a combination of [astronomy](astronomy-lectures) and [ML](ml-lectures) as well as the [in-class notebooks](in-class-notebooks) and [homeworks](homeworks).
+
+![ML for Astronomy and Physics textbook](ml_for_astronomy.jpg)
 
 The textboook was [Machine Learning for Physics and Astronomy](https://www.amazon.com/Machine-Learning-Physics-Astronomy-Acquaviva/dp/0691206414/ref=sr_1_1?crid=BV1QT65GBQYV&dib=eyJ2IjoiMSJ9.fu4YRi5eaRVQcENqMGxndg.qNQqnRpXC_GL-YgxY5AdPeiwdgkw7hUUwUH4vJUxKec&dib_tag=se&keywords=Viviana+Acquaviva&qid=1771287856&sprefix=viviana+acquaviva%2Caps%2C189&sr=8-1). 
 
