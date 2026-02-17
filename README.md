@@ -11,7 +11,7 @@ The textboook was [Machine Learning for Physics and Astronomy](https://www.amazo
 There's a myriad of ML learning resources on-line - I found the first few videos from Dr. Andrew Ng's [class](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) very helpful preparation.
 
 
-### Astronomy Lectures
+## Astronomy Lectures
 These six lectures build a bottom-up picture of modern astronomy. They start with the Solar System and the shift from geocentric ideas to a physics-based universe through Copernicus, Galileo, Kepler’s laws, and Newtonian gravity, plus the distance units astronomers use. They then develop the cosmic distance ladder: stellar classification and the H–R diagram, geometric parallax, and standard candles such as Cepheids (via Leavitt’s period–luminosity law) and Type Ia supernovae, culminating in Hubble’s law and cosmic expansion. The course broadens to cosmology—homogeneity/isotropy, curvature, redshift, scale factor, and key parameters like $H_0$ and the dark energy/dark matter budget—then to exoplanet discovery methods and habitability, and finally to galaxy–halo modeling (HOD) and ML with simulations to connect galaxies to dark matter and large-scale structure.
 
 #### Solar System
@@ -34,7 +34,7 @@ This [lecture](Lecture_Slides/Astronomy_Slides/Lecture_6_GalaxyHaloConnection.pd
 
 ---
 
-### ML Lectures
+## ML Lectures
 These eight lectures give a practical intro to machine learning from foundations to modern models. You start with what ML is, how supervised vs unsupervised learning differ, and why train/test splits matter for generalization. You study core algorithms—decision trees (impurity-based splitting), kNN (distance-based prediction), SVMs (max-margin classifiers with kernels), and regression (R²/MSE, polynomial/logistic ideas). You learn how to evaluate models correctly using precision/recall, ROC–AUC, and k-fold cross-validation, plus bias–variance diagnostics with learning curves. The course then expands to ensembles (bagging vs boosting, Random Forests and XGBoost, feature importance), unsupervised methods (k-means, hierarchical clustering, PCA/kernel PCA), and neural networks, from perceptrons/MLPs to CNNs, RNNs, autoencoders, and GANs.
 
 #### Introduction to ML
@@ -63,7 +63,7 @@ This [lecture](Lecture_Slides/Astronomy_Slides/8_IntroNN.pptx) gives a gentle in
 
 ---
 
-### In-class Notebooks
+## In-class Notebooks
 These notebooks accompany the lectures and build a practical ML workflow for astronomy. You start with Python/NumPy/Matplotlib basics, then move to visualizing astronomical data and handling measurement error (parallax–distance). Next you fit simple models to data, including numerical integration tools, then apply scikit-learn linear regression with validation and residual analysis. You finish by training and evaluating decision-tree classifiers on real datasets.
 
 #### Python Tutorial
@@ -90,7 +90,7 @@ This [notebook](In-Class_Notebooks_Solutions/Class7_kMeans_Solutions.ipynb) expl
 
 ---
 
-### Homework
+## Homework
 
 Data files are linked [here](Homework_Notebooks). Solutions are linked [here](Homework_Notebooks/Homework_Solutions/).
 
