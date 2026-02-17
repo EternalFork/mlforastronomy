@@ -66,26 +66,26 @@ This [lecture](Lecture_Slides/Astronomy_Slides/8_IntroNN.pptx) gives a gentle in
 ### In-class Notebooks
 These notebooks accompany the lectures and build a practical ML workflow for astronomy. You start with Python/NumPy/Matplotlib basics, then move to visualizing astronomical data and handling measurement error (parallax–distance). Next you fit simple models to data, including numerical integration tools, then apply scikit-learn linear regression with validation and residual analysis. You finish by training and evaluating decision-tree classifiers on real datasets.
 
-#### Class1_Python_Tutorial.ipynb
+#### Python Tutorial
 This [notebook](In-Class_Notebooks/Class1_Python_Tutorial.ipynb) is a Python refresher for an astronomy machine-learning course. It introduces notebooks, basic syntax and data types (ints, floats, strings, booleans), arithmetic/operators, variables, and simple control flow. It then practices importing packages, core containers (lists/tuples/sets), functions and data visualization through NumPy and Matplotlib.
 
-#### Class2_VisualizingDataAndMore.ipynb
+#### Visualizing Data and More
 This [notebook](In-Class_Notebooks/Class2_VisualizingDataAndMore.ipynb) explores data visualization in astronomy using Matplotlib and NumPy. It guides users through calculating stellar distances from parallaxes, generating mock datasets with associated errors, and creating plots with shaded error regions to illustrate the inverse relationship between parallax and distance.
 
-#### Class3_FittingModelsToData.ipynb
+#### Fitting Models to Data
 This [notebook](In-Class_Notebooks/Class3_FittingModelsToData.ipynb) focuses on fitting models to data, explaining how to choose between linear and curved models based on data shape and physical principles. It demonstrates creating toy data and implementing standard linear models. Additionally, it covers advanced techniques like vectorizing integrals using SciPy to perform efficient numerical calculations.
 
-#### Class4_LinearRegression.ipynb
+#### Linear Regression
 This [notebook](In-Class_Notebooks/Class4_LinearRegression.ipynb) introduces linear regression with scikit-learn: importing tools, fitting a line to a dataset, and evaluating with R². It then treats it as an ML task: train/test split, k-fold cross-validation, mean/std of scores, and residual plots. Exercises include writing a cross-val helper and fitting Cepheid period–luminosity data.
 
-#### Class5_DecisionTreeClassifier.ipynb
+#### Decision Tree Classifier
 This [notebook](In-Class_Notebooks/class5_DecisionTreeClassifier.ipynb) introduces Decision Tree classification using scikit-learn. It guides users through the machine learning pipeline: data exploration, visualization, and train-test splitting. Practical exercises involve applying these steps to the digits dataset, followed by model fitting and performance evaluation to interpret results.
 
-#### Class6_RandomForests.ipynb
+#### Random Forests
 This [notebook](In-Class_Notebooks/class6_randomforests.ipynb) explores Random Forest Classifiers and Regressors. It demonstrates model implementation and utilizes feature importance plots to identify and rank key predictors. Additionally, it includes a discussion on addressing imbalanced data in regression tasks where standard stratification methods are unavailable.
 
 <!-- was not in lectures, but was given the solution -->
-#### Class7_kMeans.ipynb
+#### kMeans
 This [notebook](In-Class_Notebooks_Solutions/Class7_kMeans_Solutions.ipynb) explores k-means clustering, an unsupervised machine learning method used to group unlabeled data. It demonstrates how the algorithm identifies clusters in digit datasets, effectively recognizing numerical patterns without external guidance. The file provides practical solutions and references for mastering clustering applications.
 
 ---
