@@ -2,7 +2,7 @@
 
 I took ML for Astronomy in Summer 2025 with Professor [Ana-Maria Delgado](https://itc.cfa.harvard.edu/people/ana-maria-delgado) at Harvard. It was a wonderful introduction to ML through the lens of astronomy.
 
-I've compiled the lectures, which were a combination of [astronomy](astronomy-lectures) and [ML](ml-lectures) as well as the [in-class notebooks](in-class-notebooks) and [homeworks](homeworks).
+I've compiled the lectures, which were a combination of [astronomy](#astronomy-lectures) and [ML](#ml-lectures) as well as the [in-class notebooks](#in-class-notebooks) and [homeworks](#homeworks).
 
 ![ML for Astronomy and Physics textbook](ml_for_astronomy.jpg)
 
