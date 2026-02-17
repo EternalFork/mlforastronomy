@@ -92,7 +92,7 @@ This [notebook](In-Class_Notebooks_Solutions/Class7_kMeans_Solutions.ipynb) expl
 
 ### Homework
 
-Data files are linked [here](Homework_Notebook). Solutions are linked [here](Homework_Notebooks/Homework_Solutions/).
+Data files are linked [here](Homework_Notebooks). Solutions are linked [here](Homework_Notebooks/Homework_Solutions/).
 
 #### HW1: Introduction to Python
 This [notebook](Homework_Notebooks/Notebook1_IntroToPython.ipynb) is an introductory Python assignment. It practices NumPy array creation/reshaping and basic scripting (indexing, checks, loops/conditionals). Students write a function to compute escape velocity from mass and radius, explore how escape velocity changes with radius, and plot the relationship with Matplotlib. It ends with a code-reading/commenting exercise on subplots.
